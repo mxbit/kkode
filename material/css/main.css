@@ -1,2 +1,18 @@
+@font-face {
+    font-family: 'ml-ttkarthikanormal';
+    src: url('../fonts/karthika.eot');
+    src: url('../fonts/karthika.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/karthika.woff2') format('woff2'),
+         url('../fonts/karthika.woff') format('woff'),
+         url('../fonts/karthika.ttf') format('truetype'),
+         url('../fonts/karthika.svg#ml-ttkarthikanormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 .nav_height{height:110px!important;}
 .nav_padding{padding-top: 22px;}
+.ml{font-family: 'ml-ttkarthikanormal'; }
+.m3{font-size: 26px;}
+.m4{font-size: 16px;}
